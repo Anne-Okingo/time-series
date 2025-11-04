@@ -60,3 +60,6 @@ Thumbs.db
 *.png
 *.jpg
 *.gif
+
+.Identifier
+AAPL.csv:Zone.Identifier
