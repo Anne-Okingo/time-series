@@ -34,7 +34,6 @@ ex00/
 
 # Jupyter Notebook
 .ipynb_checkpoints
-*.ipynb
 
 # PyCharm / IDEs
 .idea/
